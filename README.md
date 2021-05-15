@@ -1,2 +1,2 @@
 # <h>MercadoPy</h>
-<p> Testando meus conhecimento em Python, fazendo um simples Mercado.</p>
+<p> testing my logic with Python3</p>
